@@ -1,0 +1,4 @@
+Título|Teléfono|Dirección|Web
+Super Pizza|Tel: (999) 953 7171| Francisco de Montejo: C-42 No. 420 x 55d y 57, M&eacute;rida, Yucat&aacute;n.|http://www.superpizza.com.mx
+DorantRub|Tel/Fax: (999) 953 0164 / 923 0861| Calle 51 No. 555 x 78 y 80 Col. Centro, M&eacute;rida, Yucat&aacute;n.|http://www.dorantrubmexico.com
+Drive In |Tel: 943 19 39 / 99 91 27 47 99 / 943 69 49| Av. Correa Rach&oacute; # 99 A  (Enfrente al Centro Deportivo Bancario), M&eacute;rida, Yucat&aacute;n|http://www.drivein.com.mx
